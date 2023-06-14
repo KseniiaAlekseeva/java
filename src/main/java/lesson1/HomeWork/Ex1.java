@@ -11,9 +11,9 @@ public class Ex1 {
     }
 
     /**
-     * @apiNote Given an input string s, reverse the order of the words.
      * @param s Input string
      * @return Output reversed string
+     * @apiNote Given an input string s, reverse the order of the words.
      */
     private static String reverseString(String s) {
         String s1 = (s.replaceAll("\\s+", " ")).trim();
