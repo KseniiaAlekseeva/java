@@ -1,4 +1,4 @@
-package ru.sssii.java.api.lesson1.ClassWork;
+package lesson1.ClassWork;
 
 import java.util.Scanner;
 
