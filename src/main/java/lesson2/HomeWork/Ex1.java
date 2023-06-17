@@ -20,7 +20,7 @@ public class Ex1 {
      * @return True - если число простое
      * @apiNote Определяет, является ли число простым.
      */
-    private static boolean isSimple(int num) {
+    public static boolean isSimple(int num) {
         if (num == 1 || num % 2 == 0)
             return num == 2;
         int i = 3;
